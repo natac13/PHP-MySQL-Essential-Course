@@ -39,6 +39,7 @@ services:
     restart: always
     volumes:
       - ./php/:/var/www/html/
+      - ./php.ini:/usr/local/etc/php/php.ini
     stdin_open: true
     networks:
       - web

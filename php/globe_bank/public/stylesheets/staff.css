@@ -15,7 +15,7 @@ header {
   height: 40px;
   margin: 0 0 10px 0;
   padding: 0;
-  background: #0055DD;
+  background: #0055dd;
   color: white;
 }
 
@@ -27,21 +27,21 @@ header h1 {
   text-align: center;
 }
 
-navigation {
+nav {
   width: 980px;
   margin: 0;
   padding: 0;
   text-align: center;
 }
 
-navigation ul {
+nav ul {
   width: 980px;
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
-navigation ul li {
+nav ul li {
   display: inline;
   margin-right: 1em;
 }
@@ -57,7 +57,7 @@ footer {
   height: 20px;
   margin: 0 0 10px 0;
   padding: 10px 20px;
-  background: #0055DD;
+  background: #0055dd;
   color: white;
 }
 
@@ -66,7 +66,6 @@ footer {
 .actions {
   margin-bottom: 1em;
 }
-
 
 /* Lists */
 
@@ -84,8 +83,8 @@ table.list tr td {
 }
 
 table.list tr th {
-  border: 1px solid #0055DD;
-  background: #0055DD;
+  border: 1px solid #0055dd;
+  background: #0055dd;
   color: white;
   text-align: left;
 }
